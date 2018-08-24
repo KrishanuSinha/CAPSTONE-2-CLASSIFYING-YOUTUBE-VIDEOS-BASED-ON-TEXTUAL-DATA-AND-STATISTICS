@@ -1,0 +1,2 @@
+# CAPSTONE-2-CLASSIFYING-YOUTUBE-VIDEOS-BASED-ON-TEXTUAL-DATA-AND-STATISTICS
+I have attempted to classify YouTube videos based on various themes. This can actually help us in introducing the concept of genres for YouTube videos. This can very helpful for our new generation of YouTubers who constantly worry about what should the theme of videos that they must make that can fetch a good number of views.
